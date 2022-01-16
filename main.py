@@ -225,7 +225,7 @@ def bumpsAndBoosts(playerHorse, computerHorse, gameplay):
     playerFinish= playerHorse.bump(finishlineMask, *finishlinePosition)
     if playerFinish != None:
         # print(playerFinish)    #the tool i use to get the position/coordinate of the top of the finish line
-        if playerFinish[1] == 0:
+        if playerFinish[1] == 43:
             playerHorse.bounce()    #to prevent the player from cheating and just reversing to the finishline, they will bounce back and it wont count as a finish
         else:
             gameplay.nextLevel()    #increment the level by 1
