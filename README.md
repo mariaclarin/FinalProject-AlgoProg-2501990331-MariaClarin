@@ -19,5 +19,6 @@
 ## How to run the game 
 * Download and extract the zip file from this repository
 * Open any IDE (make sure you have python and pygame installed)
+* Open the files through your IDE (make sure you command prompt to the correct directory)
 * Run the main.py file
 * Have Fun !
