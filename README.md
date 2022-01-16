@@ -8,7 +8,7 @@
 * https://drive.google.com/file/d/1uF3t85skBEEhbSqGFbIpWoONDDTj9KQv/view?usp=sharing
 
 ## File Directory 
-* documentation folder = contains the video file and report pdf file for this project.
+* documentation folder = contains the report pdf file for this project.
 * images folder = contains all the images used in the game.
 * music folder = contains all the music and sound effect files used in the game.
 * main.py = the main python file to run the program with.
