@@ -15,3 +15,9 @@
 * imagetools.py = the python file containing some functions (mainly display functions) used in the main.py file.
 * movementtools.py = the python file containing the function in charge of the player movement inputs.
 * gameinfo.py = the python file containing the class in charge of the game operation functions.
+
+## How to run the game 
+* Download and extract the zip file from this repository
+* Open any IDE (make sure you have python and pygame installed)
+* Run the main.py file
+* Have Fun !
